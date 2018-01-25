@@ -1,0 +1,7 @@
+Part,Pa-001,1,,EA,1
+Part,Pa-002,1,Pa-001,EA,22
+Part,Pa-003,1,Pa-001,EA,12
+Part,Pa-004,1,Pa-003,EA,33
+Part,Pa-004,1,Pa-003,EA,33
+Part,Pa-004,1,Pa-003,EA,33
+Part,Pa-002,1,Pa-001,EA,22
